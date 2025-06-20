@@ -1,6 +1,6 @@
 # 🔥 Vite + Tailwind CSS + JavaScript Template
 
-This is a starter template for building modern front-end applications using:
+This is a simple ###HELLO WORLD starter template for building modern front-end applications using:
 
 - ⚡ [Vite](https://vitejs.dev/) — Fast and optimized build tool
 - 🎨 [Tailwind CSS](https://tailwindcss.com/) — Utility-first CSS framework
